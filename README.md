@@ -61,13 +61,11 @@ The analysis was conducted using a dataset containing **120,000 monthly observat
 - Seaborn
 - Google Colab
 
-## Future Improvements
+## Report
 
-- Hidden Markov Models (HMM)
-- Customer Lifetime Value prediction
-- Customer churn forecasting
-- Time-varying transition probabilities
-- Interactive dashboard using Streamlit
+The complete project report is available here:
+[Customer Transaction Behavior Analysis Using Discrete-Time Markov Chain.pdf](https://github.com/user-attachments/files/30361750/Customer.Transaction.Behavior.Analysis.Using.Discrete-Time.Markov.Chain.pdf)
+ 
 
 ## Authors
 
