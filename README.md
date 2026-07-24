@@ -61,16 +61,6 @@ The analysis was conducted using a dataset containing **120,000 monthly observat
 - Seaborn
 - Google Colab
 
-## Repository Structure
-
-```
-├── data/
-├── notebook/
-├── figures/
-├── report/
-└── README.md
-```
-
 ## Future Improvements
 
 - Hidden Markov Models (HMM)
